@@ -1,0 +1,24 @@
+2026-11-04 09:53:43,248 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 09:53:43,252 | INFO | task_agent.search_tasks | search_tasks completed | total_count=15 | returned_count=15 | filters={'status': 'Open', 'department': 'فنی'}
+2026-11-04 09:54:07,127 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 09:54:07,130 | WARNING | task_agent.search_tasks | search_tasks department not found: هوش مصنوعی
+2026-11-04 15:24:08,358 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 15:24:08,363 | INFO | task_agent.search_tasks | search_tasks completed | total_count=9 | returned_count=9 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 15:28:04,814 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 15:28:04,819 | INFO | task_agent.search_tasks | search_tasks completed | total_count=7 | returned_count=7 | filters={'status': 'Open', 'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 15:31:30,432 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 15:31:30,437 | INFO | task_agent.search_tasks | search_tasks completed | total_count=7 | returned_count=7 | filters={'status': 'Open', 'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 15:34:55,727 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 15:34:55,731 | INFO | task_agent.search_tasks | search_tasks completed | total_count=7 | returned_count=7 | filters={'status': 'Open', 'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 16:33:28,124 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 16:33:28,128 | INFO | task_agent.search_tasks | search_tasks completed | total_count=10 | returned_count=10 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 16:33:55,871 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 16:33:55,875 | INFO | task_agent.search_tasks | search_tasks completed | total_count=5 | returned_count=5 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 17:42:09,515 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 17:42:09,519 | INFO | task_agent.search_tasks | search_tasks completed | total_count=8 | returned_count=8 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 17:42:27,009 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 17:42:27,016 | INFO | task_agent.search_tasks | search_tasks completed | total_count=6 | returned_count=6 | filters={'status': 'Open', 'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-04 19:11:06,507 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-04 19:11:06,512 | INFO | task_agent.search_tasks | search_tasks completed | total_count=8 | returned_count=1 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
+2026-11-05 09:54:38,464 | INFO | task_agent.search_tasks | search_tasks input validation succeeded
+2026-11-05 09:54:38,468 | INFO | task_agent.search_tasks | search_tasks completed | total_count=8 | returned_count=8 | filters={'assignee_name': 'علی صابری', 'resolved_assignee_id': 1}
